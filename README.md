@@ -1,11 +1,14 @@
 # Meu Portfólio Python
 
-Olá! Bem-vindo ao meu portfólio Python. Aqui você encontrará meus projetos e informações de contato.
+Olá! Bem-vindo ao meu portfólio. Aqui você encontrará meus projetos e informações de contato.
 
 ## Sobre Mim
 
-Sou um desenvolvedor Python apaixonado por criar soluções inovadoras. Minhas áreas de interesse incluem:
+Me chamo Luis Gabriel, tenho 21 anos e estou construindo uma carreira sólida na área de Tecnologia da Informação. Durante um ano, trabalhei no setor de Centro de Processamento de Dados do Atacadão, onde adquiri experiência em administração de sistemas, monitoramento de infraestrutura de TI e resolução de problemas técnicos complexos. Desenvolvi competências como segurança da informação, controle de acessos, preparação de máquinas e mapeamento de redes, além de habilidades em organização de dados e análise de planilhas.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Anhanguera, onde tenho aprofundado meus conhecimentos em programação (Python, HTML e CSS), análise de dados e desenvolvimento de soluções tecnológicas inovadoras.
 
+
+Minhas áreas de interesse incluem:
 * Desenvolvimento Web
 * Análise de Dados
 * Automação
@@ -26,9 +29,9 @@ Sou um desenvolvedor Python apaixonado por criar soluções inovadoras. Minhas �
 
 ## Contato
 
-* Email: [seu-email]
-* LinkedIn: [seu-linkedin]
-* GitHub: [seu-github]
+* Email: [luisga.carv@gmail.com]
+* LinkedIn: [/luisgabrielmartins]
+* GitHub: [/luisgacarv]
 
 ## Scripts
 
