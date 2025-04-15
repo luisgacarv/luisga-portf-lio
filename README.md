@@ -15,17 +15,13 @@ Minhas áreas de interesse incluem:
 
 ## Projetos
 
-### Projeto 1: [Nome do Projeto 1]
+### Projeto 1: [Saudação]
 
-[Descrição do Projeto 1]
+* [Link para o Projeto 1](projects/projeto1.py)
 
-* [Link para o Projeto 1](link-para-projeto1)
+### Projeto 2: [Média]
 
-### Projeto 2: [Nome do Projeto 2]
-
-[Descrição do Projeto 2]
-
-* [Link para o Projeto 2](link-para-projeto2)
+* [Link para o Projeto 2](projects/projeto2.py)
 
 ## Contato
 
